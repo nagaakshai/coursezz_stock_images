@@ -1,0 +1,13 @@
+.heading{
+    color: rgb(160, 7, 7);
+}
+
+.hero{
+    background-image: url(./assets/home_page_bg.png);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    color: aliceblue;
+}
+.footer{
+    color: aliceblue;
+}
